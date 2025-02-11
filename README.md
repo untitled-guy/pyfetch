@@ -1,2 +1,3 @@
-# pyfetch
-Pyfetch is a neofetch replacement written in python.
+# ⭐Pyfetch
+***Pyfetch is a neofetch replacement written in python.***
+
